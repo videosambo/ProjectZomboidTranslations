@@ -16,6 +16,12 @@ Challenge_PTBR = {
 
 	Challenge_Challenge2_name = "5. Cabana na floresta: Defesa Final (Acumulador)",
 	Challenge_Challenge2_desc = "Um outro dia, uma outra cabine pra ser ensanguentada. A horda está perto, e sua morte vai ser dolorosa e violenta. Então caia lutando... <LINE> <LINE> O modo “Defesa Final – Acumulador” Contém hordas cada vez maiores atacando sem nunca parar. Use o dinheiro obtido matando zumbis pra comprar suprimento, evoluir e reparar seus equipamentos sujos de sangue.",
+	
+	Challenge_AStormIsComing_name = "7. Vem chegando a tempestade!",
+	Challenge_AStormIsComing_desc = "As nuvens se fecham sobre Kentucky. As tormentas ecoam alto. <LINE> <LINE> E a medida que o céu escurece, os mortos ficam mais inquietos. <LINE> <LINE> É uma tempestade que aumentará e diminuirá sua força, mas nunca cessará.",
+
+    Challenge_TheDescendingFog_name = "8. Sob a neblina...",
+    Challenge_TheDescendingFog_desc = "A percebemos pela primeira vez sob a água. Um fino manto branco sobre o Ohio. <LINE> <LINE> Começou como uma neblina. Logo envolveu a cidade. Os habitantes dessas partes morreram no escuro. Agora os mesmos caminham por aí. <LINE> <LINE> Desavisados, invisíveis e implacáveis em sua busca por sobreviventes.",
 	-- On-screen UI
 	Challenge_Challenge2_PressKey = "Pressione 'o' Para receber um bônus permanente e pra gastar algum dinheiro.",
 	Challenge_Challenge2_WaveStart = "Onda %1 em : %2 (pressione Enter para pular)",
@@ -48,4 +54,6 @@ Challenge_PTBR = {
 	Challenge_OpeningHoursInfoBox = " <CENTRE> O shopping abre às 09:00. <LINE> <LINE> Prepare-se para a multidão...",
 	Challenge_WinterIsComingInfoBox = " <CENTRE> Em três dias, começa um inverno sem fim. <LINE> <LINE> Melhor se aquecer...",
 	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Em 24 horas, sua viagem de volta ao condado de Knox vai virar o inferno na terra...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> Uma incessante tormenta começa...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> A neblina está ficando densa...",
 }

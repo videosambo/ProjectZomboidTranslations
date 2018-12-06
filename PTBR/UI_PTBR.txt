@@ -124,6 +124,7 @@ UI_PTBR = {
 	UI_optionscreen_temperature_celsius = "Celsius",
 	UI_optionscreen_temperature_fahrenheit = "Fahrenheit",
 	UI_optionscreen_do_wind_sprite_effects = "Efeitos do sprite de vento",
+    UI_optionscreen_do_door_sprite_effects = "Porta tremendo ao acertar",
 	UI_ConfirmMonitorSettings_Prompt = "Manter as configurações de tela?",
 	UI_ConfirmMonitorSettings_RevertIn = "Revertendo em %1 segundos.",
 	-- Map selecter (lua)

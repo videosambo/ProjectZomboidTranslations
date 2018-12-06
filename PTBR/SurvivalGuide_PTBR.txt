@@ -54,7 +54,7 @@ SurvivalGuide_PTBR = {
 			" <BR> F : Equipa (e liga) sua melhor fonte de luz. ",
 
     SurvivalGuide_entrie9title = "GUIA DO SOBREVIVENTE #9 - VEÍCULOS",
-    SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> GUIA DO SOBREVIVENTE <LINE> <SIZE:large> NOVIDADE - VEÁCULOS <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> Veículos trazem muitos benefícios, mas também barulho! Um motor acelerando vai atrair hordas em sua direção...",
+    SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> GUIA DO SOBREVIVENTE <LINE> <SIZE:large> NOVIDADE - VEÍCULOS <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> Veículos trazem muitos benefícios, mas fazem barulho! Um motor acelerando vai atrair hordas em sua direção...",
     SurvivalGuide_entrie9moreinfo = " <H1> CAINDO DENTRO <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> Se você for sortudo, então o dono de um carro pode ter deixado as chaves na porta, ignição ou porta-luva. Você pode procurar as chaves em algum zumbi próximo que poderia ser o dono. Da mesma maneira, se um carro estiver estacionado em frente a uma casa, procure nela. <BR> Ainda sem sorte? Por que não arrombar? Quebre a janela pra entrar. Se você tiver um bom nível em mecânica ou elétrica, poderá fazer até uma ligação direta. <BR> " ..
             " <H1> DIRIGINDO <BR> <TEXT> Clique na ignição pra usar sua chave, ligue o motor e leia as informações no painel. Você pode também pressionar pra frente (padrão: W) pra acelerar<BR> Se a condição do motor não estiver ideal, ele pode não ligar de primeira. Se ele não ligar, deve estar na hora de inspecionar com a habilidade de mecânico... <BR> Dirija com cuidado! Quando mais barulhento for o carro, maior será seu raio de atração de zumbis...  <BR> " ..
             " <H1> PAINEL <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> No painel do veículo você vê informações importantes como nível de gasolina, velocidade e RPM. <BR> Os ícones no topo do painel vão mostrar o estado do motor, se o porta-malas está aberto, se as luzes funcionam e etc. Clicar nestes ícones abrirá opções. Então clicar no ícone do ar condicionado/aquecedor abrirá sua respectiva janela. <BR> " ..
@@ -62,7 +62,7 @@ SurvivalGuide_PTBR = {
             " <H1> JANELA DE MECÂNICA <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> Um sobrevivente destreinado ainda pode ver o estado da bateria, nível de combustível e se alguma parte está danificada. Um sobrevivente com mecânica pode ver detalhes extras, e realizar trocas de peças. <BR> Para mais informações sobre isso e a Habilidade Mecânica, Clique no ícone de informação do canto superior esquerdo da sua janela de mecânica.",
 	    
     SurvivalGuide_entrie10title = "GUIA DO SOBREVIVENTE #10 - CLIMA",
-    SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> GUIA DO SOBREVIVENTE <LINE> <SIZE:large> NOVIDADE - CLIMA <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> Tempestades, neblina ou neve tornam a ameaça zumbi muito mais intensa! Se agasalhe bem quando o inverno dar sinais que está chegando...",
+    SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> GUIA DO SOBREVIVENTE <LINE> <SIZE:large> NOVIDADE - CLIMA <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> Tempestades, neblina ou neve tornam a ameaça zumbi muito mais intensa! Se agasalhe bem quando o inverno der sinais que está chegando...",
     SurvivalGuide_entrie10moreinfo = "<H1> MUDANÇA DE CLIMA <BR> <TEXT> Padrões climáticos são realistas em Project Zomboid. Um sistema simulado de clima usa a parte do ano, e frentes climáticas virtuais, para criar chuva, neblina, neve e trovoadas em seus respectivos períodos do ano <LINE> " ..
                                       " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> O impacto de temperaturas quentes ou frias, tem impacto em sua sobrevivência. <LINE> " ..
                                       " Quando o inverno chega, sua resistência ao frio é a maior quando está bem alimentado, descansado e bem agasalhado. Se manter ativo e bem condicionado fisicamente também vai ajudar. Ficar molhado ou doente também afetará negativamente sua resistência ao frio. <LINE> <BR> " ..
@@ -75,3 +75,4 @@ SurvivalGuide_PTBR = {
 
 
 }
+

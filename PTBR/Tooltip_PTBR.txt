@@ -198,4 +198,6 @@ Tooltip_PTBR = {
     Tooltip_lightFireNoStick = "Requer gravetos para acender o fogo.",
     Tooltip_item_Insulation = "Isolamento",
     Tooltip_NeedWrench = "Você precisa de uma %1 para fazer isso.",
+    Tooltip_BagOnSeat = "%1 em %2",
     }
+

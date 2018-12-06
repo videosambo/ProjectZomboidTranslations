@@ -329,7 +329,7 @@ Items_PTBR = {
 	DisplayName_Map = "Mapa",
 	DisplayName_Master_Carpentry = "Carpintaria Vol. V: Mestres",
 	DisplayName_Master_Cooking = "Culinária Vol. V: Mestres",
-	DisplayName_Master_Farming = "Agriculture Vol. V: Mestres",
+	DisplayName_Master_Farming = "Agricultura Vol. V: Mestres",
 	DisplayName_Master_Fishing = "Pescaria Vol. V: Mestres",
 	DisplayName_Master_Trapping = "Armadilhas Vol. V: Mestres",
 	DisplayName_Matches = "Fósforos",
@@ -806,5 +806,11 @@ Items_PTBR = {
 	DisplayName_The_Hunter_Magazine_Vol._1 = "Revista do Caçador Vol.1",
 	DisplayName_The_Hunter_Magazine_Vol._2 = "Revista do Caçador Vol.2",
 	DisplayName_The_Hunter_Magazine_Vol._3 = "Revista do Caçador Vol.3",
-
-}
+	DisplayName_Jacket = "Jaqueta",
+	DisplayName_Long_Shorts = "Bermudões",
+	DisplayName_Padded_Jacket = "Jaqueta Acolchoada",
+	DisplayName_Padded_Pants = "Calça Acolchoada",
+	DisplayName_Car_Battery_Charger = "Carregador de Bateria de Automóvel",
+	DisplayName_Plastic_Pipe = "Tubo de Plástico",
+	DisplayName_WaterDrop = "Gota D'água",
+	}

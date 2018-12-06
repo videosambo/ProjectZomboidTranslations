@@ -196,6 +196,7 @@ IGUI_PTBR = {
     IGUI_Gametime_zombieCount = "Você matou %1 zumbi.",
     IGUI_FoodNaming = "%2 (%1)",
     IGUI_ItemNaming = "%2 (%1)",
+    IGUI_ItemNameTaintedWater = "%1 (Infectado)",
     IGUI_ItemNameControllerLinked = "%1 (Ligado)",
     IGUI_Sleep_NotTiredEnough = "Você ainda não está tão cansado, para poder dormir.",
     IGUI_Sleep_OutsideRain = "Você não pode dormir na rua, embaixo da chuva.",
