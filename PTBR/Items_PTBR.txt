@@ -813,4 +813,5 @@ Items_PTBR = {
 	DisplayName_Car_Battery_Charger = "Carregador de Bateria de Automóvel",
 	DisplayName_Plastic_Pipe = "Tubo de Plástico",
 	DisplayName_WaterDrop = "Gota D'água",
+	DisplayName_Metal_Pipe = "Tubo de Metal",
 	}
